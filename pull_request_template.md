@@ -6,23 +6,29 @@ Fixes # (JIRA issue or task link)
 
 ## Type of change
 
-Please delete options that are not relevant.
-
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] fix: Bug fix (non-breaking change which fixes an issue)
+- [ ] feat: New feature (non-breaking change which adds functionality)
+- [ ] hotfix: Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] style: Changes that do not affect the meaning of the code
+- [ ] refactor: Changes that neither fixes a bug nor adds a feature
+- [ ] perf: Changes that improves performance
+- [ ] test: Adding missing tests or correcting existing tests
+- [ ] build: Changes that affect the build system or external dependencies
+- [ ] ci: Changes to our CI configuration files and scripts
+- [ ] chore: Other changes that don't modify src or test files
+- [ ] revert: Reverts a previous commit  
+- [ ] This change requires a documentation update (link: )
 
 # Test Steps
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
-- [ ] Test A
-- [ ] Test B
+- [ ] Step 1
+- [ ] Step 2
 
 **Test Configuration**:
-* JDK:
-* Dependency Services version:
+* JDK version:
+* Dependency Services and version:
 
 # Checklist:
 
